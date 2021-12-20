@@ -45,9 +45,16 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Matheushg156&count_private=true&show_icons=true&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushg156&layout=compact&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushg156&layout=compact&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
 </p>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
