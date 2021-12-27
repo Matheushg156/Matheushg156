@@ -53,6 +53,9 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 <br />
 <br />
 <br />
+<div>
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 <br />
 <br />
 <br />
