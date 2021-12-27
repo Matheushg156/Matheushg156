@@ -48,14 +48,7 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushg156&layout=compact&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
 </p>
-
 <br />
-<br />
-<br />
-<br />
-<div>
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 <br />
 <br />
 <br />
