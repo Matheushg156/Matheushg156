@@ -14,7 +14,8 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **SQL**;
+- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **Nodejs**;
+- 🌱 Em backend já aprendi sobre **Docker**, **SQL** e **Mysql Server**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
 - 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
 - 💼 Estou fazendo uma transição de carreira da engenharia química para a programação;
@@ -27,18 +28,21 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 **Linguagens e ferramentas:**  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-react%20router-0D1117?style=for-the-badge&logo=react-router&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-redux-0D1117?style=for-the-badge&logo=redux&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express&logoColor=ef8aa4" />
 </p>
 <br />
 <p>  
