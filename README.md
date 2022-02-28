@@ -10,12 +10,16 @@
 
 Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente estudo programação na **Trybe** 🚀. 
 
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+</p>
+
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **Nodejs**;
-- 🌱 Em backend já aprendi sobre **Docker**, **SQL** e **Mysql Server**;
+- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **Typescript**;
+- 🌱 Em backend já aprendi sobre **Docker**, **SQL**, **Mysql Server** e **Nodejs**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
 - 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
 - 💼 Estou fazendo uma transição de carreira da engenharia química para a programação;
@@ -43,6 +47,7 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
   <img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=ef8aa4" />
 </p>
 <br />
 <p>  
@@ -57,6 +62,11 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 <br />
 <br />
 <br />
+<div>
+    
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 <br />
 <br />
 <br />
