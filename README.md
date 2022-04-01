@@ -16,15 +16,12 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
-
-- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **Typescript**;
-- 🌱 Em backend já aprendi sobre **Docker**, **SQL**, **Mysql Server** e **Nodejs**;
+- 👨🏽‍💻 Estou no modulo de backend do curso de desenvolvimento de software da trybe, aprendendo sobre **MongoDB**;
+- 🌱 Em backend já aprendi sobre **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
 - 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
 - 💼 Estou fazendo uma transição de carreira da engenharia química para a programação;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **matheushgrdc156@gmail.com** para me encontrar.
 
 <br />
 <br />
