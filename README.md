@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente estudo programação na **Trybe** 🚀. 
+Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente sou desenvolvedor jr na **ScanBrazil Consulting**. 
 
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
