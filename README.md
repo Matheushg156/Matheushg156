@@ -16,7 +16,7 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 
 <h1 align='center'>Meus interesses pessoais</h1>
 
-- 👨🏽‍💻 Estou aprendendo sobre **C#/.NET** no meu novo emprego;
+- 👨🏽‍💻 Estou aprendendo sobre **C#/.NET** e **Angular** no meu novo emprego;
 - 👨🏽‍💻 Estou no modulo de ciência da computação do curso de desenvolvimento de software da trybe, aprendendo sobre **Python**;
 - 🌱 Em backend já aprendi sobre **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
