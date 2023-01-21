@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente sou desenvolvedor jr na **ScanBrazil Consulting**. 
+Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente sou **Analista de desenvolvimento de sistemas** na **SalaryFits**. 
 
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
@@ -17,8 +17,7 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 <h1 align='center'>Meus interesses pessoais</h1>
 
 - 👨🏽‍💻 Estou aprendendo sobre **C#/.NET** e **Angular** no meu novo emprego;
-- 👨🏽‍💻 Estou no modulo de ciência da computação do curso de desenvolvimento de software da trybe, aprendendo sobre **Python**;
-- 🌱 Em backend já aprendi sobre **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
+- 🌱 Aprendi algumas das principais ferramentas do backend, como  **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
 - 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
