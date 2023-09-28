@@ -16,7 +16,7 @@ Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atu
 
 <h1 align='center'>Meus interesses pessoais</h1>
 
-- 👨🏽‍💻 Atualmente trabalho com **typescript** e **docker** no meu novo emprego;
+- 👨🏽‍💻 Atualmente trabalho com **typescript**, **prisma**, **mysql** e **docker** no meu emprego;
 - 🌱 Aprendi algumas das principais ferramentas do backend, como  **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
 - 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
 - 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
