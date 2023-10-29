@@ -8,77 +8,95 @@
 <br />
 <br />
 
-Olá, me chamo **Matheus Henrique Gonzaga**, sou de Contagem, Minas Gerais e atualmente sou **Analista de desenvolvimento de sistemas** na **SalaryFits**. 
-
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
-<h1 align='center'>Meus interesses pessoais</h1>
+<br />
 
-- 👨🏽‍💻 Atualmente trabalho com **typescript**, **prisma**, **mysql** e **docker** no meu emprego;
-- 🌱 Aprendi algumas das principais ferramentas do backend, como  **Docker**, **SQL**, **Mysql Server**, **Nodejs** e **POO**;
-- 🌱 Aprendi algumas das principais ferramentas do frontend, como **React, Hooks e Redux**; 
-- 🤔 Meus hobbies são assistir animes, ler livros e mangás e aprender inglês e japonês;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+My name is Matheus Henrique Gonzaga, I'm from Minas Gerais and I'm currently a systems development analyst at SalaryFits.
 
 <br />
 <br />
 
-<div align='center'>
-  <h1 >Tecnologias e Linguagens ⌨ </h1>
-  <div>
-    <h2>Front-End</h2>
-    <img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-react%20router-0D1117?style=for-the-badge&logo=react-router&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-redux-0D1117?style=for-the-badge&logo=redux&logoColor=ef8aa4" />
-  </div>
-  <div>
-    <h2>Back-End</h2>
-    <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/sequelize.js-0D1117?style=for-the-badge&logo=sequelize&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ef8aa4" />
-  </div>
-  <div>
-    <h2>Testes Automatizados</h2>
-    <img src="https://img.shields.io/badge/mocha.js-0D1117?style=for-the-badge&logo=mocha&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/chai.js-0D1117?style=for-the-badge&logo=chai&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/Sinon.js-0D1117?style=for-the-badge&logo=Sinon&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/testing%20library-0D1117?style=for-the-badge&logo=testing-library&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=ef8aa4" />
-    <img src="https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=ef8aa4" />
-  </div>
-</div> 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma logo" title="Prisma" height="25" />][tech_tools_anchor]
+
+
+
+<a name="learning-next"></a>
+
+## 📖  What I am currently learning / improving on
+
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Nestjs-282C34?logo=Nestjs&logoColor=C21325" alt="Nestjs logo" title="Nestjs" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]
+
+## 👾  What I am interested in learning at some point
+
+[<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go logo" title="Go" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+
+
+
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=FE7A16" alt="Gmail logo" title="Gmail" height="25" />](matheushgrdc156@gmail.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/matheus-henrique-gonzaga/)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
+<br />
 
 <br />
 <p>  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Matheushg156&count_private=true&show_icons=true&theme=highcontrast" alt="Matheus Henrique Gonzaga" width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheushg156&count_private=true&show_icons=true&theme=highcontrast" alt="Matheus Henrique Gonzaga" width="450px"/>
 </p>
 <br />
 <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushg156&layout=compact&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushg156&layout=compact&theme=highcontrast" alt="Matheus Henrique Gonzaga" />
 </p>
 <br />
-<br />
-<br />
-<br />
-<br />
-<div>
-    
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-<br />
-<br />
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheushg156" alt="Matheus Henrique Gonzaga" /> </p>
