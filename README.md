@@ -79,7 +79,7 @@ My name is Matheus Henrique Gonzaga, I'm from Minas Gerais and I'm currently a s
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=FE7A16" alt="Gmail logo" title="Gmail" height="25" />](matheushgrdc156@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=FE7A16" alt="Gmail logo" title="Gmail" height="25" />](mailto:matheushgrdc156@gmail.com)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/matheus-henrique-gonzaga/)
 
